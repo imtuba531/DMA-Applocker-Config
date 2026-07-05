@@ -49,8 +49,7 @@ echo Enabling Airplane mode and restarting to apply changes...
 :: Turn ON Airplane Mode
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\RadioManagement\SystemRadioState" /v "Pattern" /t REG_DWORD /d 1 /f
 
-:: Force immediate computer restart
-shutdown /r /t 3 /f
+
 exit /b
 
 :TURN_ON
