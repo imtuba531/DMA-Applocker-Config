@@ -1,2 +1,10 @@
 # DMA-Applocker-Config
 A .bat utility to adjust MDM policies, to toggle unblocking of apps across sessions. REQUIRES ADMIN. 
+
+*How to use:*
+Download as a .bat file, you can choose to copy-paste this onto NotePad and save it as XXX.bat in All Files (NOT txt). You will need your parent admin credentials/other admin credentials to run this .bat file, using RUN AS ADMINISTRATOR. You can toggle Applocker on and off everytime you run it, no special edits required.
+
+Restarting/shutting down your PLD does not affect the changes to Applocker, unless you 
+
+# DISCLAIMER
+WE ARE AN INDEPENDENT ORGANISATION AND ARE NOT AFFILIATED WITH THE MINISTRY OF EDUCATION (MOE) OR ANY OTHER GOVERNMENTAL OR EDUCATIONAL INSTITUTIONS. PLEASE NOTE THAT WE ARE NOT LIABLE FOR ANY CONSEQUENCES RESULTING FROM THE MISUSE OF YOUR PERSONAL LEARNING DEVICES (PLDS). IT IS YOUR RESPONSIBILITY TO ADHERE TO YOUR SCHOOL’S GUIDELINES AND REGULATIONS REGARDING THE USE OF THESE DEVICES. ANY INAPPROPRIATE OR UNAUTHORIZED USE THAT LEADS TO DISCIPLINARY ACTIONS OR OTHER CONSEQUENCES IS SOLELY YOUR RESPONSIBILITY. WE STRONGLY ENCOURAGE USERS TO COMPLY WITH THEIR INSTITUTION’S POLICIES TO AVOID SUCH ISSUES. THIS IS PURELY MEANT FOR EDUCATIONAL PURPOSES ONLY.
